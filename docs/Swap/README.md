@@ -32,3 +32,4 @@ Then continue to confirm:
 * [Preparation](../Preparation/Preparation.md)
 * [Connect Wallet](../ConnectWallet/README.md)
 * [How to Deposit](../Deposit/README.md)
+* [How to withdraw](../Withdraw/README.md)
