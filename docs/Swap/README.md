@@ -7,19 +7,20 @@ Tap the "Swap" button on the sidebar, and then you can start swapping tokens.
 ![input amount](input.png)
 3. Confirm the swap.
 
-**Attention:**
+::: tip **Attention:**
 
 For the first time to the confirm operation, it will ask you to add the MVM network:
 
-<img scr="addnetwork.png" width="472" height="732">
+<img src="addnetwork.png" style="display: inline-block;" width="472" height="732">
 
 And then the Metamask switches to the MVM network:
 
-<img scr="switchnetwork.png" width="472" height="732">
+<img src="switchnetwork.png" style="display: inline-block;" width="472" height="732">
+::: 
 
 Then continue to confirm:
 
-<img scr="confirm.png" width="472" height="732">
+<img src="confirm.png" style="display: inline-block;" width="472" height="732">
 
 4. Wait for transferring.
 ![result](result.png)
