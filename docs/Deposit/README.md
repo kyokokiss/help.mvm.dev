@@ -6,7 +6,7 @@ Mixin Network has supported 41 public chains, so you can deposit any assets the 
 ![deposit](deposit1.png)
 2. Input the amount you want to deposit
 3. Verify on the MetaMask
-![verify](verify.png)
+<img src="verify.png" width="472" height="732">
 4. Check the deposit on the MVM page.
 ![homepage3](homepage3.png)
 **Please note that:**
