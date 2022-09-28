@@ -6,10 +6,11 @@ Mixin Network has supported 41 public chains, so you can deposit any assets the 
 ![deposit](deposit1.png)
 2. Input the amount you want to deposit
 3. Verify on the MetaMask
-<img src="verify.png" width="472" height="732">
+<img src="verify.png" align="middle" width="472" height="732">
 
 4. Check the deposit on the MVM page.
 ![homepage3](homepage3.png)
+
 **Please note that:**
 1. The deposit transfer is not real-time because of transaction speed and the confirmation requirement.
 2. It will charge a small amount of ETH as the gas fee. Please ensure it has enough ETH on balance.
