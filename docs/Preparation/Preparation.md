@@ -1,6 +1,6 @@
 # Preparation
 MVM bridge is a cross-chain smart contract platform that helps decentralized wallet users to use Mixin Network through MVM.
-Please visit the [page](https://mvm-site.vercel.app/). You will see a page like this:
+Please visit the [page](https://bridge.mvm.app/). You will see a page like this:
 ![Homepage](./homepage.png)
 MVM provides two ways to connect your decentralized wallets:
 ## Metamask
