@@ -7,7 +7,8 @@ Tap the "Swap" button on the sidebar, and then you can start swapping tokens.
 ![input amount](input.png)
 3. Confirm the swap.
 
-::: tip **Attention:**
+::: tip 
+**Attention:**
 
 For the first time to the confirm operation, it will ask you to add the MVM network:
 
