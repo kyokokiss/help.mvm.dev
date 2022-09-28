@@ -19,3 +19,4 @@ Mixin Network has supported 41 public chains, so you can deposit any assets the 
 * [Preparation](../Preparation/Preparation.md)
 * [Connect Wallet](../ConnectWallet/README.md)
 * [How to Swap](../Swap/README.md)
+* [How to withdraw](../Withdraw/README.md)
