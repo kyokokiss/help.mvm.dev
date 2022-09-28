@@ -9,3 +9,8 @@ You can install the [Metamask extension for Chrome browser](https://chrome.googl
 You can connect the wallet by scanning the QR code or the following wallet that ConnectWallet supports.
 ![Supported wallets 1](./Connectwallet1.png)
 ![Supported wallets 2](./Connectwallet2.png)
+
+### Related resources:
+* [Connect Wallet](../ConnectWallet/README.md)
+* [How to Deposit](../Deposit/README.md)
+* [How to Swap](../Swap/README.md)

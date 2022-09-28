@@ -8,3 +8,8 @@ If you didn't install the extension, please read the [Preparation](../Preparatio
 You need to use the following app to scan the QR code and connect the wallet.
 Then you will enter the homepage of MVM:
 ![homepage](./homepage2.png)
+
+### Related resources:
+* [Preparation](../Preparation/Preparation.md)
+* [How to Deposit](../Deposit/README.md)
+* [How to Swap](../Swap/README.md)
