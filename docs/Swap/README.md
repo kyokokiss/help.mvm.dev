@@ -9,6 +9,7 @@ Tap the "Swap" button on the sidebar, and then you can start swapping tokens.
 **Attention:**
 For the first time to the confirm operation, it will ask you to add the MVM network:
 ![add network](addnetwork.png)
+<img scr="addnetwork.png" width="374" height="724">
 And then the Metamask switches to the MVM network:
 ![switch network](switchnetwork.png)
 Then continue to confirm:
