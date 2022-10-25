@@ -1,10 +1,9 @@
 # How to withdraw from the MVM?
 1. Click the asset which you want to withdraw
 2. Input the withdrawal amount
-![input](withdraw.png)
+![withdraw](./withdraw.png)
 3. Confirm from the Metamask
-
-<img src="withdrawconfirm.png" width="472" height="732">
+![withdraw_confirm](./withdrawconfirm.png)
 
 Then you can check the withdrawal on your wallet.
 

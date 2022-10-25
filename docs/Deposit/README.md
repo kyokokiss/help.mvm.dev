@@ -3,13 +3,13 @@ After you successfully connect the wallet, you will get a page like this:
 ![homepage](./homepage2.png)
 Mixin Network has supported 41 public chains, so you can deposit any assets the network supports. Here we take ETH as an example:
 1. Tap deposit, and you will get a page like this:
-![deposit](deposit1.png)
+![deposit](./deposit1.png)
 2. Input the amount you want to deposit
 3. Verify on the MetaMask
-<img src="verify.png" style="display: inline-block;" width="472" height="732">
+![verify](./verify.png)
 
-4. Check the deposit on the MVM page.
-![homepage3](homepage3.png)
+4. Check the deposit on the home page.
+![homepage3](./homepage3.png)
 
 **Please note that:**
 1. The deposit transfer is not real-time because of transaction speed and the confirmation requirement.
