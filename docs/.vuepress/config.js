@@ -9,5 +9,27 @@ export default  {
         link: '/',
       },
     ],
+    sidebar: [
+      {
+        text: 'Preparation',
+        link: '/preparation'
+      },
+      {
+        text: 'Connect Wallet',
+        link: '/connectwallet'
+      },
+      {
+        text: 'Deposit',
+        link: '/deposit'
+      },
+      {
+        text: 'swap',
+        link: '/swap'
+      },
+      {
+        text: 'withdraw',
+        link: '/withdraw'
+      },
+    ]
   }),
 }
