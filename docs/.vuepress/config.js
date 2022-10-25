@@ -23,11 +23,11 @@ export default  {
         link: '/deposit'
       },
       {
-        text: 'swap',
+        text: 'Swap',
         link: '/swap'
       },
       {
-        text: 'withdraw',
+        text: 'Withdraw',
         link: '/withdraw'
       },
     ]
