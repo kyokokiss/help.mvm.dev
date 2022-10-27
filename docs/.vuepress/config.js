@@ -1,6 +1,7 @@
 import { defaultTheme } from 'vuepress'
 
 export default  {
+  base: '/help.mvm.app/',
   title: 'MVM User Handbook',
   description: 'A handbook for users to transfer asset with MVM Bridge',
   head: [['link', { rel: 'icon', href: '/images/favicon.png' }]],
