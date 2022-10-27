@@ -2,7 +2,7 @@ import { defaultTheme } from 'vuepress'
 
 export default  {
   title: 'MVM User Handbook',
-  description: 'A handbook for users to manage asset with MVM Bridge',
+  description: 'A handbook for users to transfer asset with MVM Bridge',
   head: [['link', { rel: 'icon', href: '/images/favicon.png' }]],
   theme: defaultTheme({
     logo: '/images/logo.svg',
