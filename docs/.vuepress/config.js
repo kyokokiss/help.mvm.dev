@@ -1,4 +1,5 @@
-import { defaultTheme } from 'vuepress'
+import { defaultTheme } from 'vuepress';
+import vuepressPluginAnchorRight from 'vuepress-plugin-anchor-right';
 
 export default  {
   title: 'MVM User Handbook',
@@ -22,6 +23,7 @@ export default  {
       }
     ],
 
+    sidebarDepth: 0,
     sidebar: [
       {
         text: 'Preparation',
@@ -45,4 +47,7 @@ export default  {
       },
     ]
   }),
+  plugins: [
+    [vuepressPluginAnchorRight()],
+  ]
 }
